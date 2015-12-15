@@ -1,4 +1,4 @@
-# handlebars-loader
+# hbs-loader-with-exclude (original handlebars-loader)
 
 A [`handlebars`](http://handlebarsjs.com) template loader for [`webpack`](https://github.com/webpack/webpack).
 
