@@ -14,7 +14,7 @@ A [`handlebars`](http://handlebarsjs.com) template loader for [`webpack`](https:
   module: {
     loaders: [
       ...
-      { test: /\.handlebars$/, loader: "handlebars-loader" }
+      { test: /\.handlebars$/, loader: "hbs-loader-with-exclude" }
     ]
   }
 }

@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git://github.com/rakeshmenon/handlebars-loader.git"
   },
-  "version": "1.1.4",
+  "version": "1.1.5",
   "devDependencies": {
     "html-loader": "^0.3.0",
     "mocha": "^1.21.4",
